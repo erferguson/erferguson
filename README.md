@@ -5,6 +5,9 @@ I'm [Eric Ferguson](https://erferguson.com), a Full Stack Developer student 🚀
 - [<img height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/erferguson/)
 - [Portfolio](https://erferguson.com/)
 
+<!-- https://github.com/simple-icons/simple-icons | https://simpleicons.org/ -->
+
+
 **Talking about Personal Stuffs:**
 👨🏽‍💻 I’m currently working on something cool :wink:;
 🌱 I’m currently learning GraphQL and C++; 
