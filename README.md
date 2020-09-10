@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 [<img align='left' width='22px' src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg' />][linkedin]
 -->
 [linkedin]: https://linkedin.com/in/erferguson
+  
+  <img src=https://btwicode.com/static/media/html_icon.005cdc3d.svg height=36px width=36px alt="HTML"/>
