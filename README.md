@@ -14,6 +14,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erferguson&theme=nightowl&layout=compact" />
 </a>
+<br>
 
 > Note:
 > Top languages do not indicate my skill level. Rather it's a simple Github metric of which languages I have used the most
