@@ -1,7 +1,7 @@
 ### Hello - my name is Eric 👋
 
 ### Connect with me --
-- [LinkedIn](https://www.linkedin.com/in/erferguson/)
+- [<img src="https://btwicode.com/static/media/linked_in_icon.74cc4eb7.svg"/>](https://www.linkedin.com/in/erferguson/)
 - [Portfolio](https://erferguson.com/)
 
 ### Languages & Technologies:
