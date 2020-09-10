@@ -1,7 +1,7 @@
 ### Hello - my name is Eric 👋
 
 ### Connect with me --
-- [LinkedIn](https://www.linkedin.com/in/erferguson/)
+- [:link: LinkedIn](https://www.linkedin.com/in/erferguson/)
 - [My website](https://erferguson.com/)
   
 ### Languages & Technologies:
@@ -15,7 +15,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erferguson&theme=nightowl&layout=compact" />
 </a>
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github
+*NOTE:* :notebook:
+> Top languages does not indicate my skill level or something like that, it's a Github metric of which languages I have the most code on Github
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- https://github.com/anuraghazra/anuraghazra/blob/master/README.md -->
