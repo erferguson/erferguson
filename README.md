@@ -2,7 +2,7 @@
 I'm [Eric Ferguson](https://erferguson.com), a Full Stack Developer student 🚀 at [Lambda School](https://lambdaschool.com/courses/full-stack-web-development). Beside's programming, I enjoy watching footy.
 
 ### Connect: 
-- [<img height="26" width="26" background-color="#007B5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/erferguson/)
+- [<img height="26" width="26" fill="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/erferguson/)
 - [Portfolio](https://erferguson.com/)
 
 <!-- https://github.com/simple-icons/simple-icons | https://simpleicons.org/ -->
