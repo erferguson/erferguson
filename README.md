@@ -24,7 +24,7 @@ I'm [Eric Ferguson](https://erferguson.com), a Full Stack Developer student 🚀
 <br>
 
 > Note:
-> Top languages do not indicate my skill level. Rather it's a simple Github metric of which languages I have used the most
+> Top languages do not indicate my skill level. Rather it's a simple Github metric of which languages I have used the most.
 
 <!-- https://www.youtube.com/watch?v=n6d4KHSKqGk -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
