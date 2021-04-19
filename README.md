@@ -1,5 +1,5 @@
 ### Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I'm [Eric Ferguson](https://erferguson.com), a Full Stack Developer student 🚀 at [Lambda School](https://lambdaschool.com/courses/full-stack-web-development). Beside's programming, I enjoy watching footy and day trading.
+I'm [Eric Ferguson](https://erferguson.com), and completed the Full Stack Developer program 🚀 at [Lambda School](https://lambdaschool.com/courses/full-stack-web-development). Beside's programming, I enjoy watching footy, day trading and exploring Napa Valley.
 
 ### Connect: 
 - [<img height="26" width="26" fill="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/erferguson/)
@@ -9,7 +9,7 @@ I'm [Eric Ferguson](https://erferguson.com), a Full Stack Developer student 🚀
 
 
 **Currently:**
-- 🌱 I'm learning Python + Computer Science
+- 🌱 I'm learning Vue.js
 
 # Languages & Technologies
 <img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png height=36px width=36px alt="HTML"/> <img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png height=36px width=36px alt="CSS"/> <img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png height=36px width=36px alt="Javascript"/> <img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png height=36px width=36px alt="React"/> <img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png height=36px width=36px alt="Redux"/> <img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png height=36px width=36px alt="SASS"/> <img src=https://btwicode.com/static/media/less_icon.7595e22f.svg height=36px width=36px alt="Less"/> <img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png height=36px width=36px alt="Node.js"/> <img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png height=36px width=36px alt="MongoDB"/> <img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png height=36px width=36px alt="Python"/> <img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png height=36px width=36px alt="Git"/>
